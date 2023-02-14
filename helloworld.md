@@ -35,3 +35,6 @@
 **git status** - показывает измененные файлы
 
 **git commit -am "comment"** - добавляет и коммитит все измененные файлы
+
+
+add new text on branch 4
